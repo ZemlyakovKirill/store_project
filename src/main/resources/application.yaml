@@ -1,0 +1,10 @@
+spring:
+  application:
+    name : storeproject
+  datasource:
+    url : jdbc:postgresql://localhost:5432/store
+    password: 123
+    username: postgres
+
+
+
